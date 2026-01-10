@@ -162,12 +162,10 @@ np.random.seed(<integer>)
 * Phonon DOS & spectral function extraction
 * Export to LAMMPS / VASP formats
 
-## Master's thesis
-
-Vibrational Properties of Disordered Carbon Nanotube (DOI: 10.13140/RG.2.2.23999.56481/2)
 
 ## Publications
 
+* Vibrational Properties of Disordered Carbon Nanotube (DOI: 10.13140/RG.2.2.23999.56481/2)
 * Vacancy and Curvature Effects on The Phonon Properties of Single Wall Carbon Nanotube (DOI: 10.7567/JJAP.57.02CB08)
 * Phonon localization in single wall carbon nanotube: Combined effect of 13C isotope and vacancies (DOI: 10.1063/5.0011810)
 * Localization of the Optical Phonon Modes in Boron Nitride Nanotubes: Mixing Effect of 10 B Isotopes and Vacancies (DOI: 10.1021/acsomega.2c02792)
